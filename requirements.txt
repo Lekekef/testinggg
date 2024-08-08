@@ -3,3 +3,7 @@ os
 matplotlib
 torchvision
 cv2
+pandas
+seaborn
+scipy
+albumentations
